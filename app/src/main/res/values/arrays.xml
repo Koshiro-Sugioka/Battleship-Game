@@ -1,0 +1,24 @@
+<resources>
+    <string-array name="speed_labels">
+        <item>Fast</item>
+        <item>Medium</item>
+        <item>Slow</item>
+    </string-array>
+
+    <string-array name="direction_labels">
+        <item>Left-to-Right</item>
+        <item>Right-to-Left</item>
+        <item>Both</item>
+    </string-array>
+
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+</resources>

@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Schlachtschiff Krieg</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="game_over">ENDE !</string>
+    <string name="play_again">Nochmal!</string>
+    <string name="quit">Endspiel</string>
+    <string name="sound_pref">Sound-Effekt</string>
+    <string name="music_pref">Hintergrundmusik</string>
+    <string name="sound_summary_off">Ohne Soundeffekt</string>
+    <string name="sound_summary_on">Mit Soundeffekt</string>
+    <string name="music_summary_off">Ohne Hintergrundmusik</string>
+    <string name="music_summary_on">Mit Hintergrundmusik</string>
+    <string name="missile_pref">Schnell Schießende Raketen</string>
+    <string name="missile_summary_off">Sie können nicht mehrere Raketen abfeuern.</string>
+    <string name="missile_summary_on">Sie können mehrere Raketen abfeuern.</string>
+    <string name="depth_pref">Schnell Schießende Tiefenladungen</string>
+    <string name="depth_summary_off">Sie können nicht mehrere Tiefenladungen abwerfen.</string>
+    <string name="depth_summary_on">Sie können mehrere Tiefenladungen abwerfen.</string>
+    <string name="plane_pref">Flugzeughöhe</string>
+    <string name="plane_summary_off">Flugzeuge bewegen sich nicht auf und ab.</string>
+    <string name="plane_summary_on">Flugzeuge bewegen sich auf und ab.</string>
+    <string name="sub_pref">U-Boot-Tiefe</string>
+    <string name="sub_summary_off">U-Boote bewegen sich nicht auf und ab.</string>
+    <string name="sub_summary_on">U-Boote bewegen sich auf und ab.</string>
+    <string name="frug_pref">Sparsamkeitsmodus</string>
+    <string name="frug_summary_off">Sie verlieren keinen Punkt für jede verwendete Rakete oder Tiefenladungen.</string>
+    <string name="frug_summary_on">Sie verlieren einen Punkt für jede verwendete Rakete oder Tiefenladungen.</string>
+    <string name="plane_speed_pref">Flugzeug Geschwindigkeit</string>
+    <string name="plane_speed_summary">Wie schnell bewegt sich das Flugzeug?</string>
+    <string name="sub_speed_pref">U-Boot Geschwindigkeit</string>
+    <string name="sub_speed_summary">Wie schnell bewegt sich das U-Boot?</string>
+    <string name="plane_direction_pref">Flugzeug Richtung</string>
+    <string name="plane_direction_summary">In welche Richtung bewegt sich das Flugzeug?</string>
+    <string name="sub_direction_pref">U-Boot Richtung</string>
+    <string name="sub_direction_summary">In welche Richtung bewegt sich das U-Boot?</string>
+    <string name="time">Zeit</string>
+    <string name="score">Ergebnis</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>

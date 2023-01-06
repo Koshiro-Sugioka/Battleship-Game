@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Battleship War</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="game_over">GAME OVER!</string>
+    <string name="play_again">Play again!</string>
+    <string name="quit">Quit.</string>
+    <string name="sound_pref">Sound Effects</string>
+    <string name="music_pref">Background Music</string>
+    <string name="sound_summary_off">Without Sound</string>
+    <string name="sound_summary_on">With Sound</string>
+    <string name="music_summary_off">Without Background Music</string>
+    <string name="music_summary_on">With Background Music</string>
+    <string name="missile_pref">Rapid-fire missiles</string>
+    <string name="missile_summary_off">You can\'t shoot multiple missiles.</string>
+    <string name="missile_summary_on">You can shoot multiple missiles.</string>
+    <string name="depth_pref">Rapid-fire depth</string>
+    <string name="depth_summary_off">You can\'t drop multiple depth.</string>
+    <string name="depth_summary_on">You can drop multiple depth.</string>
+    <string name="plane_pref">Plane Altitude</string>
+    <string name="plane_summary_off">Plane will not move up and down.</string>
+    <string name="plane_summary_on">Plane will move up and down.</string>
+    <string name="sub_pref">Submarine Depth</string>
+    <string name="sub_summary_off">Submarine will not move up and down.</string>
+    <string name="sub_summary_on">Submarine will move up and down.</string>
+    <string name="frug_pref">Frugality Mode</string>
+    <string name="frug_summary_off">You will not lose 1 point for each missile and depth charge used.</string>
+    <string name="frug_summary_on">You will lose 1 point for each missile and depth charge used.</string>
+    <string name="plane_speed_pref">Plane Speed</string>
+    <string name="plane_speed_summary">How fast will the Planes move?</string>
+    <string name="sub_speed_pref">Subs Speed</string>
+    <string name="sub_speed_summary">How fast will the Subs move?</string>
+    <string name="plane_direction_pref">Plane Direction</string>
+    <string name="plane_direction_summary">Which direction will the Planes move?</string>
+    <string name="sub_direction_pref">Subs Direction</string>
+    <string name="sub_direction_summary">Which direction will the Subs move?</string>
+    <string name="time">Time</string>
+    <string name="score">Score</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
